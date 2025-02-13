@@ -12,5 +12,4 @@ No setup required, just run the code and start exploring. 🆓
 ✅ No external libraries required
 ✅ Learn how to handle Aces (1 or 11) in Blackjack
 ✅ Just run, tweak, and have fun! 🎮
-
-# i think its quiet messy🙂
+quiet messy
